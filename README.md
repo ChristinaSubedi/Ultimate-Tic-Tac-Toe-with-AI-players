@@ -17,3 +17,7 @@ The board is composed of 9 Tic-Tac-Toe grids arranged in a 3x3 grid. The followi
 
 
 Try running the GUI and seeing for yourself :)
+
+
+https://github.com/ChristinaSubedi/Ultimate-Tic-Tac-Toe-with-AI-players/assets/96991580/d72751d6-9abf-4c81-9126-40682da7bdc5
+
