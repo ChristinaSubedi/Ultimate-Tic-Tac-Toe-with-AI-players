@@ -5,7 +5,7 @@ The board is composed of 9 Tic-Tac-Toe grids arranged in a 3x3 grid. The followi
 
 • The move determines the board on which the next player will play. Specifically, if the first player places their mark in the top right cell of a small board, the next player must play on the top right small board.
 
-• Thisrulecontinues,withthepositionofamovewithinasmallboarddictatingwherethenextmovemustbe made within the larger board.
+• This rule continues, with the position of a move within a small board dictating where the next move must be made within the larger board.
 
 • To win a small board, a player must get three of their marks in a row, either horizontally, vertically, or diagonally, as in traditional tic tac toe.
 
